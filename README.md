@@ -32,7 +32,7 @@ This repository reflects my continuous learning and practical understanding of Q
 - SDLC models (Waterfall, Agile, V-Model)  
 - Advantages and disadvantages  
 
-### 📋 Requirements Engineering
+### 📋 Requirements Gathering
 - Requirement gathering process  
 - Types of requirements:
   - Functional Requirements  
